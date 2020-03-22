@@ -139,6 +139,16 @@ header nav ul li a:hover{
     padding-bottom: 10px;
 }
 
+.about-me-img {
+    background-image: url(./../images/NIr_8ZS3_400x400.jpg);
+    background-size: cover;
+    background-position: 60%;
+    min-height: 200px;
+    min-width: 200px;
+    max-height: 200px;
+    border-radius: 50%;
+    border: 2px solid var(--box-color);
+}
 .about-me p {
     margin-bottom: 10px;
 }
@@ -146,8 +156,6 @@ header nav ul li a:hover{
 .about-me p:first-child::first-letter {
     font-weight: bold;
 }
-
-
 
 .work-grid-wrapper {
     width: 100%;
@@ -161,6 +169,10 @@ header nav ul li a:hover{
     grid-gap: 20px;
 }
 
+.work-grid-container a {
+    text-decoration: none;
+}
+
 .work-grid-item {
     border: 2px solid var(--box-color);
     display: flex;
@@ -168,6 +180,7 @@ header nav ul li a:hover{
     justify-content: flex-start;
     text-align: left;
 }
+
 
 .work-grid-item.big {
     grid-column: 1/span 2;
@@ -230,6 +243,7 @@ header nav ul li a:hover{
     font-size: small;
     font-weight: lighter;
     z-index: 2;
+    padding: 10px 10px;
 }
 
 .work-grid-text h4 {
