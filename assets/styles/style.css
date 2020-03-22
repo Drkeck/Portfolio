@@ -178,14 +178,34 @@ header nav ul li a:hover{
     position: relative;
 }
 
-.img1 {
-    background-image: url(./../images/hatin.png);
+.img1, .img2, .img4, .img5, .img3 {
     background-size: cover;
     background-position: 20%;
     position: relative;
     min-height: 100px;
     width: 100%;
     z-index: 1;
+}
+
+.img1 {
+    background-image: url(./../images/hatin.png);
+}
+
+.img2{
+    background-image: url(./../images/7162209cbe40aeeba705870210e5eb7d.jpg);
+}
+
+.img3 {
+    background-image: url(./../images/001-version2-mock-up-main.jpg);
+    background-position: 0px 0px;
+}
+
+.img4 {
+    background-image: url(./../images/HzT6tDs.jpg);
+}
+
+.img5 {
+    background-image: url(./../images/LightAnotherGypsymoth-max-1mb.gif);
 }
 
 .img::after{
