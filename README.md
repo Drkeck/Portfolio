@@ -1,6 +1,6 @@
 # [Alexander's portfolio.](https://drkeck.github.io/Portfolio-project/)
 
-## Quick about me:
+### Quick about me:
 Hello I'm Alexander keckley,
 and this is my portfolio, which as of writing (3/22/20) i'm still filling out with my projects.
 there are very few to go off of at the moment, but i'm still working and expanding on my work.

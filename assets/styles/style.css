@@ -14,7 +14,7 @@ html {
 /* page colors found here */
 :root {
     --text-color: rgb(36, 79, 104);
-    --page-background: rgba(221, 242, 252, 1);
+    --page-background: rgb(255, 254, 244);
     --box-color: rgb(127, 180, 201);
 }
 
@@ -112,6 +112,7 @@ header nav ul li a:hover{
 
 .info {
     padding: 10px 60px;
+    background: var(--page-background);
 }
 
 .content{
