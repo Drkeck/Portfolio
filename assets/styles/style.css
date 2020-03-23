@@ -300,3 +300,58 @@ header nav ul li a:hover{
     color: var(--box-color);
     transition: 1s;
 }
+
+@media screen and (max-width: 980px) {
+    .content {
+        width: 95%;
+    }
+
+    .info {
+        padding: 0px 0px;
+    }
+
+    .work-grid-text {
+        padding: 0px 0px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .about-me-img {
+        min-width: 150px;
+        min-height: 150px;
+        max-height: 150px;
+    }
+    .about-me div {
+        margin-left: 10px;
+    }
+}
+
+
+@media screen and (max-width: 575px) {
+
+    .hero {
+       padding: 90px 45px 15px 0px;
+    }
+
+    .content {
+        margin: 5px 5px 5px 5px;
+    }
+
+    .about-me-img {
+        min-width: 0px;
+        min-height: 0px;
+        max-height: 0px;
+        border: 0px;
+    }
+
+    .work-grid-container {
+        grid-template-columns: 1fr;
+        grid-template-rows: 1fr;
+        grid-gap: 5px
+    }
+
+    .work-grid-item.big {
+        grid-column: 1/span 1;
+    }
+
+}
