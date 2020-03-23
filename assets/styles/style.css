@@ -140,7 +140,7 @@ header nav ul li a:hover{
 }
 
 .about-me-img {
-    background-image: url(./../images/NIr_8ZS3_400x400.jpg);
+    background-image: url(./../images/about-me.jpg);
     background-size: cover;
     background-position: 60%;
     min-height: 200px;
@@ -201,24 +201,24 @@ header nav ul li a:hover{
 }
 
 .img1 {
-    background-image: url(./../images/hatin.png);
+    background-image: url(./../images/img-1.png);
 }
 
 .img2{
-    background-image: url(./../images/7162209cbe40aeeba705870210e5eb7d.jpg);
+    background-image: url(./../images/img-2.jpg);
 }
 
 .img3 {
-    background-image: url(./../images/001-version2-mock-up-main.jpg);
+    background-image: url(./../images/img-3.jpg);
     background-position: 0px 0px;
 }
 
 .img4 {
-    background-image: url(./../images/HzT6tDs.jpg);
+    background-image: url(./../images/img-4.jpg);
 }
 
 .img5 {
-    background-image: url(./../images/LightAnotherGypsymoth-max-1mb.gif);
+    background-image: url(./../images/img-5.gif);
 }
 
 .img::after{
