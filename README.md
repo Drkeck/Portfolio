@@ -7,7 +7,12 @@ there are very few to go off of at the moment, but i'm still working and expandi
 
 ### Also
 I do have multiple other skills and talents that i balance, these include:
-> `Editing` `Live Video & Audio` `Audio-work` and `eventually music`
+ * Editing
+ * Live Video & Audio 
+ * Audio-work
+ * eventually music
 Many of these are active hobbies of mine.
 
 ## The Portfolio
+
+![Image of portfolio](./assets/README-img/Portfolio.gif)
