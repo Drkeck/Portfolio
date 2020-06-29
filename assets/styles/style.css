@@ -91,7 +91,7 @@ header nav ul li a:hover{
 }
 
 .hero {
-    background-image: url(./../images/hero-img.png);
+    background-image: linear-gradient(rgba(71, 71, 71, 0.5), var(--page-background)), url(./../images/hero-img.png);
     background-size: cover;
     display: flex;
     justify-content: flex-end;
@@ -215,7 +215,7 @@ header nav ul li a:hover{
 }
 
 .img4 {
-    background-image: url(./../images/img-4.jpg);
+    background-image: url(./../images/img-4.gif);
 }
 
 .img5 {
